@@ -22,6 +22,8 @@ styles:{//STYLES OF LOGIN-VIEW
     color: 'white'
   },
 }
+
+
 }; 
 },
 template: `
