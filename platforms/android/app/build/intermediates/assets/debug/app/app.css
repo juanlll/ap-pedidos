@@ -1,0 +1,405 @@
+@import 'nativescript-theme-core/css/core.light.css';
+
+.fa { font-family: FontAwesome; }
+
+#bg-login{
+	background-image: url('~/images/bg-login.jpg');
+}
+
+
+.icon {
+   font-family: 'icomoon';
+   font-size: 48;
+}
+
+
+
+#stack-login{
+	 padding-left:50px; padding-right: 50px;
+	 height: 100%;
+
+}
+
+#btn-login{
+	background-color: white;
+	color: black;
+}
+
+#header-login{
+background-color: rgba(0,0,0,0.5);
+color: white;
+display: none;
+border-width: 0px;
+text-align: center;
+}
+
+
+#header-login1{
+background-color: black;
+color: white;
+}
+
+#gloceries{
+
+}
+
+
+
+
+#item-list{
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 15px;
+	border-style: solid;
+	border-color:transparent;
+	border-width: 15px;
+}
+
+#name-product{
+color: white;
+}
+
+
+
+#capa-bg{
+background-color: rgba(0,0,0,0.5);
+
+}
+
+#logo{
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+height: 100%;
+}
+ 
+#p{
+	color: white;
+	text-align: center;
+	height: 50%;
+}
+
+Button{
+	font-size: 18px;
+	background-color: #69c730;
+}
+
+#box-text{
+	 color: black;
+}
+
+#box-text Label{
+	 color: #69c730;
+	 font-size: 18px;
+}
+
+#header-dashboard{
+	background-color: black;
+	color: white;
+}
+
+#card-footer {
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	width: 100%;
+	height: 100px;
+	padding-left: 10px;
+	left: 0px;
+	top:380px;
+
+}
+
+#card{
+	height: 480px;
+	width: 100%;
+	margin: 0px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#box-text TextField{
+	 border-bottom-style: solid;
+	 border-color: white;
+	 border-bottom-width: 2px;
+}
+#card-title{
+
+	
+	width: 70%;
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 20px;
+	vertical-align: middle;
+	line-height: 100px;
+	height: 100%;
+}
+
+
+#card-image{
+	width: 100%;
+	height: 80%;
+}
+
+
+#card-price{
+	height: 100%;
+	width: 30%;
+	margin-right: 10px;
+	margin-top: 15px;
+	color: #69c730;
+	font-size: 20px;
+	font-weight: bold;
+	vertical-align: middle;
+	line-height: 100px;
+	text-align: right;
+}
+
+#category-name{
+	height:100%;
+	text-align: center;
+}
+
+#category-icon{
+	height:70%;
+	
+}
+
+#categories-menu{
+	background-color: transparent;
+		border-style: solid;
+	border-width: 2px;
+}
+
+#item-categories{
+	border-style: solid;
+	border-width: 2px;
+}
+
+#list-productos{
+	height: 100%;
+}
+
+
+#main-content{
+	height:100%;
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+}
+
+#logo-dash{
+	height: 50%;
+	margin-left: 15%;
+}
+
+.icon{
+    font-family: 'icomoon';
+}
+
+
+#space-register-top{
+	height: 20%;
+}
+
+#main-menu{
+	
+}
+
+#lprueba{
+	height: 100px;
+	width: 99%;
+	background-color: rgba(255, 255, 255, 0.5);
+	color: black;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+#lprueba-config{
+	height: 100px;
+	width: 99%;
+	background-color: rgba(255, 255, 255, 0.5);
+	color: black; 
+	text-align: center;
+	border-radius: 5px;
+	margin: 5px;
+
+}
+
+#lprueba-config Label {
+margin-left: 5px;
+font-size: 20px;
+text-align: center;
+vertical-align: middle;
+line-height: 100px;
+}
+
+#lprueba Label {
+margin-left: 5px;
+font-size: 20px;
+text-align: center;
+vertical-align: middle;
+line-height: 100px;
+}
+
+#card-image-right{
+height: 32px;
+width: 32px;
+
+}
+
+#card-image-left{
+	margin-left: 10px;
+	height: 64px;
+width: 64px;
+left: 20px;
+top: 25px;
+}
+
+#slider-info{
+	width: 100%;
+	height: 200px;
+	border-radius: 5px;
+
+}
+
+#list-categories{
+	height: 100%;
+	width: 100%;
+	background-color: transparent;
+	color: black;
+	text-align: center;
+	
+
+}
+
+#item-categories{
+	height: 150px;
+	width: 100%;
+	border-bottom-style: solid;
+	border-color: black;
+	padding-left: 20px;
+
+}
+
+
+#item-categories Image{
+	text-align: center;
+	height: 80px;
+	width: 80px;
+}
+
+#item-categories Label{
+	text-align: center;
+font-size: 18px;
+color: black;
+vertical-align: middle;
+}
+
+#account-header{
+	height: 25%;
+	background-color: rgba(0,0,0,0.9);
+	padding-left: 50px;
+
+}
+
+#account-header #header-title{
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	
+	padding-bottom: 0px;
+}
+
+#account-header #header-description{
+	color: #69c730;
+}
+ 
+#account-header #header-text{
+	padding-top: 80px;
+	padding-left:20px;
+	height: 100%;
+
+}
+
+
+#account-image-header{
+	
+vertical-align: middle;
+
+
+}
+
+#account-image-header Image{
+	border-radius: 50%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	background-color: white;
+	height: 200px;
+	width: 200px;
+
+}
+
+#account-body{
+	height: 65%;
+    background-color: white;
+    padding: 50px;
+}
+
+#box-text-account{
+	 color: black;
+
+}
+
+#box-text-account Label{
+	color: #69c730;
+	 font-size: 18px;
+}
+
+#account-footer{
+	height: 100%;
+	background-color: #69c730;
+	color: white; 
+	width: 100%;
+	margin: 0px;
+
+}
+
+#account-page{
+	padding: 0px;
+	margin: 0px;
+}
+
+#mensaje-vacio{
+	font-size: 25px;
+	color: black;
+	vertical-align: middle;
+}
+#item-category{
+	height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+	border-color: white;
+	border-width: 1px 0px 0px 0px;
+	border: solid;
+}
+
+#item-category Label{
+	color: white;
+	font-size: 40px;
+	vertical-align: middle;
+	line-height: 300px;
+	height: 300px;
+	font-family: "La Patio Script";
+	margin: 0px;
+	padding-top: 100px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .20s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}

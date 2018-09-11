@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "4057633929",
+    "firebase_url": "https://apedidos-db483.firebaseio.com",
+    "project_id": "apedidos-db483",
+    "storage_bucket": "apedidos-db483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4057633929:android:cb1c2a094d13c56f",
+        "android_client_info": {
+          "package_name": "org.nativescript.Apedidos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4057633929-pv86f5jg20b016aurs3djf9l7ami75in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE76FJ9Y2wKBZ_0RXB4HHDW5fFFKc7H3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
